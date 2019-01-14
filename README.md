@@ -5,7 +5,7 @@ A Simple String Parsing Problem
 Given a string of unknown length, provide 2 javascript functions:
 
 1. Given the input string return the longest word. If there is a tie, return the first word of the longest length. Do not return any punctuation or other characters around the word, as in only include the characters 'A-Z' or 'a-z', and the '-' character as being part of a "word" for this calculation. Example:
-  Input: ```"Fee! Fie! Foe! Fum??"  yeilds: 'Fee'```
+  Input: ```"Fee! Fie! Foe! Fum??"  yields: 'Fee'```
 2. Given the same input string return the sum of all the numbers in the string. A number is seperated from other numbers by any non-numeric (0-9) character. 
 
 3. Put up your code in a public Github branch and send the link.
