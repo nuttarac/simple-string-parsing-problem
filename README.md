@@ -11,12 +11,18 @@ Given a string of unknown length, provide 2 javascript functions:
 3. Put up your code in a public Github branch and send the link.
 
 Example Input 1:
+
+
 ```'Be 567 yourself;79 everyone 90 else is already 96789 taken.'```
 
 Example Input 2: 
+
+
 ```'              There are 2 hard problems in computer 798  science: cache    invalidation, 23422naming things, and 22 off-by-1 errors.' ```
 
 Example Input 3:
+
+
 ``` 
 '   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus. Sit amet commodo nulla facilisi nullam. Tellus elementum sagittis vitae et. Lacus sed viverra tellus in hac habitasse 57   platea dictumst. Odio  234   aenean sed adipiscing diam donec adipiscing. Feugiat pretium nibh ipsum consequat. Nunc mattis enim ut tellus elementum 343 sagittis. Habitant morbi tristique senectus et netus et malesuada fames ac. Aliquam purus sit amet luctus venenatis. Sed nisi lacus sed viverra tellus in  hac. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est. Congue nisi vitae suscipit tellus mauris a diam maecenas. Pharetra convallis posuere morbi leo urna molestie. Amet nisl purus in mollis. Lorem mollis aliquam ut porttitor leo.
 
